@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        tools:layout_editor_absoluteY="519dp"
+        tools:layout_editor_absoluteX="37dp"
+        android:text="Czy na pewno chcesz zobaczyć odpowiedź?”"
+        android:id="@+id/czy_na_pewno"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        tools:layout_editor_absoluteY="547dp"
+        tools:layout_editor_absoluteX="105dp"
+        android:text="Pokaż odpowiedź"
+        android:id="@+id/pokaz_odpowiedz"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        tools:layout_editor_absoluteY="419dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:text="Odpowiedz"
+        android:id="@+id/odpowiedz"
+        android:padding="30dp"/>
+
+</LinearLayout>

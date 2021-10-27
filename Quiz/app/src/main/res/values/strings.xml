@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+    <string name="button_help">Help</string>
+    <string name="q_cola">Cola jest zdrowa</string>
+    <string name="q_chips">Frytki są zdrowe</string>
+    <string name="q_rice">Ryż jest zdrowy</string>
+    <string name="q_fish">Ryba jest zdrowa</string>
+    <string name="q_candy">Cukierki są zdrowe</string>
+    <string name="correctAnswer">Brawo!</string>
+    <string name="incorrectAnswer">No nie!</string>
+    <string name="answer_was_shown">Pokazałem już!</string>
+
+</resources>
